@@ -1,5 +1,5 @@
-# GroceryAssistant-Flipkart-Grid-6.0
-
+# GroceryAssistant
+`Made for Flipkart Grid 6.0 hackathon`
 ## Overview
 
 This application is an advanced product recognition and freshness assessment system designed for inventory management and quality control in retail environments. It utilizes computer vision, optical character recognition (OCR), and machine learning techniques to process images of products and produce detailed information about them.
